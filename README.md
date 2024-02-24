@@ -1,9 +1,13 @@
-# PlantPal 🪴
+# PlantPal 🪴 ( name subject to change )
 Introducing PlantPal - your personal plant caretaker! Never let your leafy friends go thirsty again.  
   
 PlantPal uses smart devices to monitor moisture levels and provides timely reminders for watering, ensuring your plants stay healthy and happy. Stay organized with a visual gallery of all your plants, simply snap a pic and let PlantPal identify them for you.  
 PlantPal provides personalized plant suggestions, expert tips, and invaluable information at your fingertips.  
 Cultivate your indoor jungle effortlessly with just a tap and embrace the green thumb lifestyle with PlantPal by your side!
+
+Design preview:
+![pr](https://github.com/ZvonimirBabic/plantpal/assets/57459616/0c27c0b8-383c-4bf0-bc29-5d871901497c)
+
 
 # Smart device
 

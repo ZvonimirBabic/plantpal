@@ -1,16 +1,26 @@
-# plantpal
+# PlantPal 🪴 ( name subject to change )
+Introducing PlantPal - your personal plant caretaker! Never let your leafy friends go thirsty again.  
+Rewrite: Social media for your plants
+  
+PlantPal uses smart devices to monitor moisture levels and provides timely reminders for watering, ensuring your plants stay healthy and happy. Stay organized with a visual gallery of all your plants, simply snap a pic and let PlantPal identify them for you.  
+PlantPal provides personalized plant suggestions, expert tips, and invaluable information at your fingertips.  
+Cultivate your indoor jungle effortlessly with just a tap and embrace the green thumb lifestyle with PlantPal by your side!
 
-Introducing PlantPal - your personal plant caretaker!
+Design preview:
+![pr](https://github.com/ZvonimirBabic/plantpal/assets/57459616/0c27c0b8-383c-4bf0-bc29-5d871901497c)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Smart device
 
-A few resources to get you started if this is your first Flutter project:
+Meet your new best friend for your plants - PlantPal Smart Device!  
+This innovative IoT gadget, keeps your plants thriving by monitoring soil moisture levels. 
+Stay connected with your green buddies from anywhere via the app, receiving alerts based on soil moisture levels to keep your green buddy nourished to perfection.  
+The devices can be equiped with battery level indicator to send a notification when the device needs to be charged.  
+  
+Never worry about overwatering or neglecting your plants again - PlantPal has got you covered!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Schematic:  
+![PlantPal_device_schematic](https://github.com/ZvonimirBabic/plantpal/assets/57459616/84536053-2a5e-4b93-965b-c4998be6fb9f)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Parts list:  
+![PlantPal_device_parts_list](https://github.com/ZvonimirBabic/plantpal/assets/57459616/ca694b4a-321e-4054-9528-8c67501db092)

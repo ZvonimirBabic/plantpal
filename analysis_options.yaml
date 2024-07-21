@@ -118,4 +118,3 @@ linter:
     - avoid_bool_literals_in_conditional_expressions
     - avoid_function_literals_in_foreach_calls
     - cast_nullable_to_non_nullable
-    - avoid_types_on_closure_parameters
